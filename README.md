@@ -1,2 +1,2 @@
-# bengaluru_house_prediction
-Machine Learning Project
+# Bengaluru House Price Prediction of Different Loacalites using Machine Learning Models such as Linear Regression, Decesion Trees, Lassos.
+
