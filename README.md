@@ -26,4 +26,6 @@ Predicting house prices can be a complex task that involves multiple variables, 
 
 Remember that predicting house prices is not an exact science and involves uncertainties and risks. You should do your due diligence, research thoroughly, and consult with experts before making any investment decisions.
 
-##Visualisaztion of Bedroom, Hall and Kitchen 
+## Visualization of Bedroom, Hall and Kitechen
+![download](https://user-images.githubusercontent.com/90987160/221073271-43b7c838-dbc5-490c-863c-7a71ba020b21.png)
+
