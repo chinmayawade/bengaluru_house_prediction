@@ -29,3 +29,12 @@ Remember that predicting house prices is not an exact science and involves uncer
 ## Visualization of Bedroom, Hall and Kitechen
 ![download](https://user-images.githubusercontent.com/90987160/221073271-43b7c838-dbc5-490c-863c-7a71ba020b21.png)
 
+## Visualization of Bathing Area
+![download (1)](https://user-images.githubusercontent.com/90987160/221073381-d094c91c-0b04-4374-94ef-8a21fb0fb581.png)
+
+## Price per square feet
+![download (2)](https://user-images.githubusercontent.com/90987160/221073509-8d87aa61-b9d1-4b19-8082-5914a1693264.png)
+
+## Rajaji Nagar Area Visuzalization 
+![download (3)](https://user-images.githubusercontent.com/90987160/221073604-54e070ab-8806-4f1b-b27e-cf08d6c1bbb9.png)
+
