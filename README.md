@@ -25,3 +25,5 @@ Predicting house prices can be a complex task that involves multiple variables, 
 **Consider macroeconomic factors:** You should also consider the macroeconomic factors such as GDP growth, inflation, interest rates, and political stability that can affect the real estate market in Bengaluru.
 
 Remember that predicting house prices is not an exact science and involves uncertainties and risks. You should do your due diligence, research thoroughly, and consult with experts before making any investment decisions.
+
+##Visualisaztion of Bedroom, Hall and Kitchen 
