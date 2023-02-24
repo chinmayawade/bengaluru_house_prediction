@@ -38,3 +38,16 @@ Remember that predicting house prices is not an exact science and involves uncer
 ## Rajaji Nagar Area Visuzalization 
 ![download (3)](https://user-images.githubusercontent.com/90987160/221073604-54e070ab-8806-4f1b-b27e-cf08d6c1bbb9.png)
 
+
+## Visualization  of Price per Square Foot at Rajaji Nagar
+![download (4)](https://user-images.githubusercontent.com/90987160/221073772-ad7f8dbe-0aed-4bde-8de4-1ce210732f01.png)
+ 
+## Number of Bathrooms 2, 3 ,4 and 6 BHK
+![download (5)](https://user-images.githubusercontent.com/90987160/221073911-d95c0347-5a31-4d6d-a11f-f34793c5f1c6.png)
+
+## Best Score Model 
+|   |  model | best_score  |  best_params |
+|---|---|---|---|
+| 0  | linear_regression	  |  0.818354	 |  {'normalize': True} |
+|  1 |  lasso | 0.687429  | {'alpha': 1, 'selection': 'cyclic'}  |
+|  2 | decision_tree  |  0.718892 | {'criterion': 'mse', 'splitter': 'random'}  |
