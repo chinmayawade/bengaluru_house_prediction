@@ -51,3 +51,13 @@ Remember that predicting house prices is not an exact science and involves uncer
 | 0  | linear_regression	  |  0.818354	 |  {'normalize': True} |
 |  1 |  lasso | 0.687429  | {'alpha': 1, 'selection': 'cyclic'}  |
 |  2 | decision_tree  |  0.718892 | {'criterion': 'mse', 'splitter': 'random'}  |
+
+
+## Price Prediction for '1st Phase JP Nagar':
+86.50537337722247
+
+## Price Prediction for '5th Phase JP Nagar':
+38.93415026548578
+
+## Price Prediction for 'Indira Nagar':
+180.82820686320383
